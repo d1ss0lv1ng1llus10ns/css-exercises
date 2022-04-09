@@ -1,4 +1,8 @@
-p {
-    font-family: Verdana, DejaVu Sans, sans-serif;
-    background-color: rgb(red, rgb(245, 185, 253), blue);
+.odd  {
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    background-color: rgb(255, 167, 167);
+}
+
+.cooler {
+    font-size: 24px;
 }
